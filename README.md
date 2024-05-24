@@ -1,16 +1,19 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Flask/React CRUD App Project](./assets/hero.png)
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Add a short description of the project here.
+In this project, students will gain experience working across the full-stack, building both front-end and back-end applications. They will create an authenticated back-end API allowing for full CRUD utilizing Flask and PostgreSQL. They'll also construct a front-end React application capable of interacting with that API through AJAX requests.
 
 ## Prerequisites
 
-tktk What are the prerequisites of this project?
+This project requires an understanding of:
+
+- Constructing APIs using Flask.
+- Securing Flask APIs by utilizing JWTs.
+- Interacting with a PostgreSQL database from a Flask application to carry out full CRUD on related resources.
+- Constructing React applications capable of interacting with APIs that require JWT authorization to carry out full CRUD on related resources.
 
 ## Content
-
-tktk Make a copy of the Project Requirements document linked in Google Sheets doc inside the same folder it is in now. Once you have a new URL, replace the one below. Modify the document as necessary. You may need to add or remove sections. Once you have finalized your work on the Project Requirements document in Google Sheets, download it as a PDF, name the file `project-requirements.pdf`, and add it to the `/project-requirements/assets` directory.
 
 [Project Journey](./project-journey/README.md)
 
@@ -30,7 +33,9 @@ The below content may be useful resources if you decide to customize this conten
 
 [Project Planning Deliverable](./project-planning-deliverable/README.md)
 
-[Project GitHub Repo Link Deliverable](./project-github-repo-link-deliverable/README.md)
+[Project GitHub Repo Link Deliverable - Front-end](./project-github-repo-link-deliverable-front-end/README.md)
+
+[Project GitHub Repo Link Deliverable - Back-end](./project-github-repo-link-deliverable-back-end/README.md)
 
 [Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
 
