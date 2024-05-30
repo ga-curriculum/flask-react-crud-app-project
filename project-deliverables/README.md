@@ -16,27 +16,49 @@
 
 Planning is vital to build anything more than the most trivial of applications; therefore, this is where you will begin your journey with this project. You shouldn't write any code or set up a GitHub repo for your project until an instructor approves your planning materials.
 
-### Building your planning materials
+## Building your planning materials
 
-tktk Details for how to build planning materials such as what tools to use to project plan.
+Use [Trello](https://trello.com/) for your project planning work. This [video](https://www.youtube.com/watch?v=l3F3l3psqXY) has some helpful tips to get started using Trello if you've never used it before. Check out this [Trello support article](https://support.atlassian.com/trello/docs/changing-the-visibility-of-a-board/) to make your planning materials publicly available.
 
-### Details
+> 🚨 ***It is vital that you make your project planning publicly accessible; otherwise, no one can see it! Check out this [Trello support article](https://support.atlassian.com/trello/docs/changing-the-visibility-of-a-board/) to learn how!***
 
-You will submit the following details about your project for approval by your instructor:
+## Details
 
-- tktk Planning requirement
-- tktk Planning requirement
-- tktk Planning requirement
+You will submit a public Trello board with these project planning details:
+
+- MVP user stories, written in the following template: **As a [user role], I want [feature], so that [reason].** If the reason is obvious, it can be excluded.
+- Wireframes for your app's main pages. For example, if you were building a blogging app, you might have wireframes for a landing page, the posts index page, and the add post page.
+- An ERD for your app's data and the relationships between that data.
+
+To organize this information, set up the Trello board for your project with the following **lists**:
+
+- **MVP User Stories**: To hold your MVP user stories. Each user story should be an individual card in the list.
+- **Wireframes**: To hold the wireframes for your app. Each wireframe should be an individual card on the list. You may also want to include Wireframes built with your stretch goals in mind. If you do this, ensure that these cards are clearly labeled.
+- **ERD**: To hold the ERD for your project. You may want to include an ERD built with your stretch goals in mind as well. If you do this, ensure it is clearly labeled on a separate card.
+
+During planning, you may want to include additional user stories that describe stretch goal features that go beyond the project requirements. Ensure these are in a separate list called **Stretch Goal User Stories** on your Trello board.
+
+An example of an acceptable Trello board submission is shown here:
+
+![An acceptable initial Trello board.](./assets/example-trello.png)
+
+## Using Trello during project week
+
+Some students like to use Trello during project week to keep track of their work. While you're more than welcome to do this, it is not a project requirement, and the method you use to organize your work is ultimately up to you!
 
 ## GitHub repo deliverable
 
-After your project proposal has been approved, you'll need to set up a GitHub repo for your project.
+After your project proposal has been approved, you'll need to set up the two main GitHub repos for your project - one for the front-end and another for the back-end.
 
-> 🚨 As a reminder, you should use the same repo or keep all the repos you use for the entire duration of your project to meet the project requirements.
+> 🚨 As a reminder, you should use the same front-end and back-end repos or keep all the repos you use for the entire duration of your project to meet the project requirements.
 
 ## Deployed app deliverable
 
-During project week, you'll deploy your project so that others are able to use it on the internet! Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your project.
+During project week, you'll deploy your project so that others are able to use it on the internet! You will need to deploy your back-end and front-end applications separately.
+
+Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your back-end MEN Stack application.
+
+Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your front-end React application.
 
 ## Submitting your deliverables
 
@@ -44,7 +66,7 @@ Follow the guidelines below to submit your deliverables for this project.
 
 ### Submitting your planning materials
 
-Submit a link to your ***publicly visible*** planning materials below in the following format:
+Submit a link to your ***publicly visible*** Trello board below in the following format:
 
 ```plaintext
 Project planning link: <link>
@@ -54,17 +76,18 @@ Replacing `<link>` (including the `<` and `>`) with a link to your project plann
 
 ### Submitting your GitHub repo link
 
-Submit a link to the ***public*** GitHub repo that you are using for your Flask/React CRUD App Project below in the following format:
+Submit a link to the ***public*** GitHub repos that you are using for the front-end and back-end of your Flask/React CRUD App Project below in the following format:
 
 ```plaintext
-GitHub repo link: <link>
+Front-end GitHub repo link: <link>
+Back-end GitHub repo link: <link>
 ```
 
-Replacing `<link>` (including the `<` and `>`) with a link to your GitHub repo.
+Replacing `<link>` (including the `<` and `>`) with a link to your front-end and back-end GitHub repos.
 
 ### Submitting your deployed app link
 
-Deploy your project by following the guide above. Submit a link to your deployed app in the following format:
+Deploy your project by following the guides above. Submit a link to your deployed front-end app in the following format:
 
 ```plaintext
 Deployed project link: <link>

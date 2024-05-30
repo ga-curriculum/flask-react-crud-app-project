@@ -23,9 +23,9 @@ This project requires an understanding of:
 
 [Project Deliverables](./project-deliverables/README.md)
 
-[tktk Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
+[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
 
-[tktk Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/17HhGcgTn9zY96FJj175uCGhaHccnA7KUDx_6Bi3xT9k/edit)
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1hrHW2NqCZBDCBO86pFbPx95y713JyprHlsVN1gIYFLY/edit)
 
 ### Extras
 
