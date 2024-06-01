@@ -46,7 +46,7 @@ An example of an acceptable Trello board submission is shown here:
 
 Some students like to use Trello during project week to keep track of their work. While you're more than welcome to do this, it is not a project requirement, and the method you use to organize your work is ultimately up to you!
 
-## GitHub repo deliverable
+## GitHub repo deliverables
 
 After your project proposal has been approved, you'll need to set up the two main GitHub repos for your project - one for the front-end and another for the back-end.
 
@@ -56,9 +56,9 @@ After your project proposal has been approved, you'll need to set up the two mai
 
 During project week, you'll deploy your project so that others are able to use it on the internet! You will need to deploy your back-end and front-end applications separately.
 
-Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your back-end MEN Stack application.
+Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your back-end Flask application.
 
-Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your front-end React application.
+Follow the [React Front-End Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/react-front-end-deployment/) to deploy your front-end React application.
 
 ## Submitting your deliverables
 
@@ -74,7 +74,7 @@ Project planning link: <link>
 
 Replacing `<link>` (including the `<` and `>`) with a link to your project planning materials.
 
-### Submitting your GitHub repo link
+### Submitting your GitHub repo links
 
 Submit a link to the ***public*** GitHub repos that you are using for the front-end and back-end of your Flask/React CRUD App Project below in the following format:
 

@@ -4,9 +4,9 @@
 
 During project week, you'll deploy your project so that others are able to use it on the internet! You will need to deploy your back-end and front-end applications separately.
 
-Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your back-end MEN Stack application.
+Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your back-end Flask application.
 
-Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your front-end React application.
+Follow the [React Front-End Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/react-front-end-deployment/) to deploy your front-end React application.
 
 ## Submitting your deployed app link
 
